@@ -1,6 +1,6 @@
 # chatapp
 
-A new Flutter project.
+A chat app that utilizes flutter and dart language and Google Firebase as its backend for authentication and cloud database.
 
 ## Getting Started
 
